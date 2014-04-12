@@ -1,0 +1,1 @@
+This is an implementation of a method for high-accuracy cross-language retrieval of news stories, used in the CLINSS (Cross-Language Indian News Story Search) task at FIRE 2013 (http://www.isical.ac.in/~fire/).
